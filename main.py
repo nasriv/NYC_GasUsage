@@ -1,5 +1,5 @@
 '''
-Use NYC gas usage data from nyc open data
+Use 2010 NYC gas usage data from nyc open data
 '''
 import numpy as np
 import pandas as pd

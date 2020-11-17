@@ -1,5 +1,5 @@
 '''
-Use DOB complaint data from nyc open data
+Use NYC gas usage data from nyc open data
 '''
 import numpy as np
 import pandas as pd
